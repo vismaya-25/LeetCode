@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/vismaya-25/LeetCode/tree/master/0058-length-of-last-word) |
+## Array
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/vismaya-25/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/vismaya-25/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
